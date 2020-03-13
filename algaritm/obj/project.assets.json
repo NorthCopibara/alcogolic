@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elshe\\source\\repos\\algaritm\\algaritm\\algaritm.csproj",
+      "projectUniqueName": "C:\\Users\\Elshe\\Documents\\alcogolic\\algaritm\\algaritm.csproj",
       "projectName": "algaritm",
-      "projectPath": "C:\\Users\\Elshe\\source\\repos\\algaritm\\algaritm\\algaritm.csproj",
+      "projectPath": "C:\\Users\\Elshe\\Documents\\alcogolic\\algaritm\\algaritm.csproj",
       "packagesPath": "C:\\Users\\Elshe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elshe\\source\\repos\\algaritm\\algaritm\\obj\\",
+      "outputPath": "C:\\Users\\Elshe\\Documents\\alcogolic\\algaritm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
