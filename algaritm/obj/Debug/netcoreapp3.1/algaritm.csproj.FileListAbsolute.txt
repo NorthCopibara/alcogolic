@@ -1,0 +1,11 @@
+C:\Users\Elshe\source\repos\algaritm\algaritm\bin\Debug\netcoreapp3.1\algaritm.exe
+C:\Users\Elshe\source\repos\algaritm\algaritm\bin\Debug\netcoreapp3.1\algaritm.deps.json
+C:\Users\Elshe\source\repos\algaritm\algaritm\bin\Debug\netcoreapp3.1\algaritm.runtimeconfig.json
+C:\Users\Elshe\source\repos\algaritm\algaritm\bin\Debug\netcoreapp3.1\algaritm.runtimeconfig.dev.json
+C:\Users\Elshe\source\repos\algaritm\algaritm\bin\Debug\netcoreapp3.1\algaritm.dll
+C:\Users\Elshe\source\repos\algaritm\algaritm\bin\Debug\netcoreapp3.1\algaritm.pdb
+C:\Users\Elshe\source\repos\algaritm\algaritm\obj\Debug\netcoreapp3.1\algaritm.csprojAssemblyReference.cache
+C:\Users\Elshe\source\repos\algaritm\algaritm\obj\Debug\netcoreapp3.1\algaritm.AssemblyInfoInputs.cache
+C:\Users\Elshe\source\repos\algaritm\algaritm\obj\Debug\netcoreapp3.1\algaritm.AssemblyInfo.cs
+C:\Users\Elshe\source\repos\algaritm\algaritm\obj\Debug\netcoreapp3.1\algaritm.dll
+C:\Users\Elshe\source\repos\algaritm\algaritm\obj\Debug\netcoreapp3.1\algaritm.pdb
